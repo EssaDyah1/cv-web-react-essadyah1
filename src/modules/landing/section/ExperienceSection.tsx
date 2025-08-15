@@ -16,7 +16,7 @@ export default function ExperienceSection() {
       place: "KONCO KULINER",
       duration: "SEP 2024 - May 2025",
       description: [
-        "Developed CRUD and Excel export features.",
+        "VIDEO EDITING",
         "Used HMVC in CodeIgniter 3 for scalable backend.",
         "Designed workflows before development for efficiency.",
         "Optimized queries using database views and tables.",
