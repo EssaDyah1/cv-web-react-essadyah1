@@ -5,12 +5,12 @@ export default function ExperienceSection() {
       place: "DEWAN AMBALAN RADEMA",
       duration: "JULY 2024 - Present",
       description: [
-        "Built a dashboard with Google Analytics for performance tracking.",
+        "MAKING AN ENTERTAINMENT PROPOSAL",
         "Enhanced HMAC authentication for secure integrations.",
         "Improved map visuals with custom location markers.",
         "Created reusable UI components for scalability.",
         "Integrated real-time email replies into the inbox system.",
-        "Implemented email-based OTP for secure login.",
+        "Implemented email-based OTP for secure logiN",
       ],
     },
     {
