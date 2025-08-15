@@ -7,7 +7,7 @@ export default function ExperienceSection() {
       description: [
         "MAKING AN ENTERTAINMENT PROPOSAL",
         "CREATING ACCOUNTABILITY REPORTS",
-        "Improved map visuals with custom location markers.",
+        "CREATING AN ASSIGNMENT LETTER",
         "Created reusable UI components for scalability.",
         "Integrated real-time email replies into the inbox system.",
         "Implemented email-based OTP for secure logiN",
