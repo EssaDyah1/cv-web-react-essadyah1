@@ -1,8 +1,8 @@
 export default function ExperienceSection() {
   const experiences = [
     {
-      job: "Full Stack Developer",
-      place: "PT. Aksamedia Mulia Digital",
+      job: "SECRETARY",
+      place: "PT. Aksamedia Mulia DigitaL",
       duration: "Feb 2024 - Present",
       description: [
         "Built a dashboard with Google Analytics for performance tracking.",
