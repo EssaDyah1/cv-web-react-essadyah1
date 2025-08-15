@@ -14,7 +14,7 @@ export default function ExperienceSection() {
     {
       job: "FREELANCE VIDEOGRAPHER",
       place: "KONCO KULINER",
-      duration: "Apr - May 2024",
+      duration: "SEP 2024 - May 2025",
       description: [
         "Developed CRUD and Excel export features.",
         "Used HMVC in CodeIgniter 3 for scalable backend.",
