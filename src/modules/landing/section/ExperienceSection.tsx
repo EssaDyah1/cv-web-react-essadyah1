@@ -23,7 +23,7 @@ export default function ExperienceSection() {
       ],
     },
     {
-      job: "Software Engineer",
+      job: "STUDENTS OF COMPUTER NETWORK ENGINEERING DEPARTMENT",
       place: "EEPIS Flying Robot for Indonesia (EFRISA)",
       duration: "Apr - Sep 2023",
       description: [
