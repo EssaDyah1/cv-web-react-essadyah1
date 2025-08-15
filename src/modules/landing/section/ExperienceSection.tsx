@@ -18,7 +18,7 @@ export default function ExperienceSection() {
       description: [
         "VIDEO EDITING",
         "SHOOTING",
-        "Designed workflows before development for efficiency.",
+        "CREATING A PERSUASIVE SCRIPT",
         "Optimized queries using database views and tables.",
       ],
     },
