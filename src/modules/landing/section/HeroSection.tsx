@@ -4,7 +4,7 @@ import iconYudha from "@assets/icons/profile/icon_yudha.png";
 
 export default function HeroSection() {
   const currentStatuses = [
-    { icon: "ri:code-s-slash-line", label: "Full Stack Developer" },
+    { icon: "ri:code-s-slash-line", label: "student" },
     { icon: "ri:map-pin-2-line", label: "Tarik, Sidoarjo, Jawa Timur" },
     {
       icon: "ri:linkedin-box-line",
