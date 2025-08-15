@@ -13,7 +13,7 @@ export default function ExperienceSection() {
     },
     {
       job: "FREELANCE VIDEOGRAPHER",
-      place: "PT. Sekawan Media Informatika",
+      place: "KONCO KULINER",
       duration: "Apr - May 2024",
       description: [
         "Developed CRUD and Excel export features.",
