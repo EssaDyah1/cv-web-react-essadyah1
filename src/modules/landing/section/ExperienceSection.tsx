@@ -28,7 +28,7 @@ export default function ExperienceSection() {
       duration: "JULY 2023 - JULY 2026",
       description: [
         "WINDOWS INSTALATION",
-        "Integrated MAVLink over 433 MHz to decode flight data.",
+        "CISCO ROUTING",
         "Monitored UAV movement with dynamic flight path maps.",
         "Developed trip logging and replay (black box) features.",
         "Configured STM32 for auto-pointing ground antenna.",
