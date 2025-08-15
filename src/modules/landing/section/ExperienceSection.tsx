@@ -17,7 +17,7 @@ export default function ExperienceSection() {
       duration: "SEP 2024 - May 2025",
       description: [
         "VIDEO EDITING",
-        "Used HMVC in CodeIgniter 3 for scalable backend.",
+        "SHOOTING",
         "Designed workflows before development for efficiency.",
         "Optimized queries using database views and tables.",
       ],
