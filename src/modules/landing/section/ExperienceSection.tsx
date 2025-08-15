@@ -24,7 +24,7 @@ export default function ExperienceSection() {
     },
     {
       job: "STUDENTS OF COMPUTER NETWORK ENGINEERING DEPARTMENT",
-      place: "EEPIS Flying Robot for Indonesia (EFRISA)",
+      place: "12 TKJ 1",
       duration: "Apr - Sep 2023",
       description: [
         "Built a real-time UAV control system with Socket.IO.",
