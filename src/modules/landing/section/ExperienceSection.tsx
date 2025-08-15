@@ -19,7 +19,7 @@ export default function ExperienceSection() {
         "VIDEO EDITING",
         "SHOOTING",
         "CREATING A PERSUASIVE SCRIPT",
-        "Optimized queries using database views and tables.",
+        "INSTAGRAM ACCOUNT MANAGEMENT",
       ],
     },
     {
