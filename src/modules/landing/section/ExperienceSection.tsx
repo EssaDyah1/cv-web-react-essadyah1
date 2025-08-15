@@ -6,7 +6,7 @@ export default function ExperienceSection() {
       duration: "JULY 2024 - Present",
       description: [
         "MAKING AN ENTERTAINMENT PROPOSAL",
-        "Enhanced HMAC authentication for secure integrations.",
+        "CREATING ACCOUNTABILITY REPORTS",
         "Improved map visuals with custom location markers.",
         "Created reusable UI components for scalability.",
         "Integrated real-time email replies into the inbox system.",
