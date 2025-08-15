@@ -8,9 +8,7 @@ export default function ExperienceSection() {
         "MAKING AN ENTERTAINMENT PROPOSAL",
         "CREATING ACCOUNTABILITY REPORTS",
         "CREATING AN ASSIGNMENT LETTER",
-        "Created reusable UI components for scalability.",
-        "Integrated real-time email replies into the inbox system.",
-        "Implemented email-based OTP for secure logiN",
+        "CREATING TECHNICAL INSTRUCTIONS FOR ACTIVITIES"
       ],
     },
     {
