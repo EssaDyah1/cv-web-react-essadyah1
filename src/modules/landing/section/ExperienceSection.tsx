@@ -12,7 +12,7 @@ export default function ExperienceSection() {
       ],
     },
     {
-      job: "Backend Developer",
+      job: "FREELANCE VIDEOGRAPHER",
       place: "PT. Sekawan Media Informatika",
       duration: "Apr - May 2024",
       description: [
