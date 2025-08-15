@@ -25,9 +25,9 @@ export default function ExperienceSection() {
     {
       job: "STUDENTS OF COMPUTER NETWORK ENGINEERING DEPARTMENT",
       place: "12 TKJ 1",
-      duration: "Apr - Sep 2023",
+      duration: "JULY 2023 - JULY 2026",
       description: [
-        "Built a real-time UAV control system with Socket.IO.",
+        "WINDOWS INSTALATION",
         "Integrated MAVLink over 433 MHz to decode flight data.",
         "Monitored UAV movement with dynamic flight path maps.",
         "Developed trip logging and replay (black box) features.",
